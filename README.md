@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software developer with bold ideas
-- 🎓 Studying Computer Science with Data Science at hte Bennett University ,graduting 2025
+- 🎓I am pursuing a Bachelor's degree in Computer Science with a specialization in Data Science at Bennett University, with an expected graduation date in 2025.
 - Interested in space and technology 🛰️and Data Science
 
 ### - Languages and Tools...
